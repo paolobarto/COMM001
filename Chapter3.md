@@ -39,3 +39,42 @@ Owning multiple book publishers this company is also Europe's largest broadcaste
 
 # New Companies
 
+## Comcast/NBC Universal
+
+The original monopoly but broken up by government. Comcast bought NBCU therefore making it the largest purely media company.
+
+## Alphabet
+
+* Google- Advertising serach engine email youube android mobile operating system maps and apps
+* Andriod The most used smartphone operating system
+* Chrome A laptop operating system and web browser
+* Nest - Connect internet of things devices
+* Calico Antiaging research
+* Loon - internet to remote places with research balloons 
+* Verily - Health care and disease prevention research
+* Waymo- Self-driving car development
+
+## Apple
+lots of money growing under Steve Jobs as visionary. Getting removed and coming back with reintroduction of Apple's new Unix based OS which eventually turned into Apples' OSX
+
+
+# Media Economics and Long tail
+
+**Long tail** - the phenomenon that referrs to mass communication becoming less mass and we have new media companies that specialize in providing narroly focused content. 
+
+**Short Head** - Limited number of products and high sales
+
+## Characteristics of the Long tail
+
+* High number of goods
+* Low cose of reaching markets
+* Ease of ffinding niche products
+* Flastting the demand curve for mainstream hits
+* Size of collective market
+* Tailoring to personal tastes
+
+## Consequences of the Long Tail
+* Democratization of the means of products
+* Democratization of the means of distribution
+* Greatly reduced cost of connect suppliers and consumers
+
